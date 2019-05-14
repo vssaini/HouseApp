@@ -1,0 +1,821 @@
+C:\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\HouseApp\HousApp\bin\Debug\HousApp.exe.config
+C:\HouseApp\HousApp\bin\Debug\HousApp.exe.manifest
+C:\HouseApp\HousApp\bin\Debug\HousApp.application
+C:\HouseApp\HousApp\bin\Debug\HousApp.exe
+C:\HouseApp\HousApp\bin\Debug\HousApp.pdb
+C:\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\HouseApp\HousApp\bin\Debug\SqlCeToolbox.Common.dll
+C:\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\HouseApp\HousApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\HouseApp\HousApp\obj\Debug\HousApp.AboutBox1.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.BLL.AddNewDayar.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.AddNewUser.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.ComingSoon.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.frmdispyrecord.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.MainUserCtrl.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.Properties.Resources.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.SentEmail.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.SignIn.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.UserCoAddNew.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.UserCoMainApp.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.User_Home.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.UserInterfase3.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.UserHome.resources
+C:\HouseApp\HousApp\obj\Debug\HousApp.Home.resources
+C:\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\HouseApp\HousApp\obj\Debug\HousApp.exe.manifest
+C:\HouseApp\HousApp\obj\Debug\HousApp.application
+C:\HouseApp\HousApp\obj\Debug\HousApp.exe
+C:\HouseApp\HousApp\obj\Debug\HousApp.pdb
+C:\HouseApp\HousApp\obj\Debug\HousApp.UserCoDayarim.resources
+C:\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\HousApp.exe
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\HousApp.exe.config
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\HousApp.exe.manifest
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\HousApp.application
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\HousApp.pdb
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\SqlCeToolbox.Common.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.AboutBox1.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.BLL.AddNewDayar.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.AddNewUser.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.ComingSoon.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.frmdispyrecord.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.MainUserCtrl.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.Properties.Resources.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.SentEmail.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.SignIn.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.UserCoAddNew.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.UserCoDayarim.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.UserCoMainApp.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.User_Home.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.UserInterfase3.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.UserHome.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.Home.resources
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.exe.manifest
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.application
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.exe
+C:\Users\Willie\Documents\Visual Studio 2013\Projects\HouseApp\HousApp\obj\Debug\HousApp.pdb
+C:\working4\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working4\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working4\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working4\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working4\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working4\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working4\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working4\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working4\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working4\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\working4\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working4\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working4\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserData.resources
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working4\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working4\HouseApp\HousApp\bin\Debug\newpic.jpg
+C:\working4\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working6\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working6\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working6\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working6\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working6\HouseApp\HousApp\bin\Debug\newpic.jpg
+C:\working6\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working6\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working6\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working6\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working6\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working6\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working6\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\working6\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working6\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working6\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working6\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working7\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working7\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working7\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working7\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working7\HouseApp\HousApp\bin\Debug\newpic.jpg
+C:\working7\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working7\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working7\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working7\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working7\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working7\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working7\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\working7\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working7\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working7\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working7\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working8\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working8\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working8\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working8\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working8\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working8\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working8\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working8\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working8\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working8\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working8\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\working8\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working8\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working8\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working8\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working8\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+C:\working9\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working9\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working9\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working9\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working9\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working9\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working9\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working9\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working9\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working9\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working9\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working9\HouseApp\HousApp\bin\Debug\SoftwareLocker.dll
+C:\working9\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working9\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working9\HouseApp\HousApp\bin\Debug\SoftwareLocker.pdb
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working9\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\Config\log4net.config
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\HouseApp.application
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\HouseApp.exe
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\log4net.dll
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.application
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.exe
+\\psf\Home\Downloads\working10\HouseApp\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working11\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working11\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working11\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working11\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working11\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working11\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working11\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working11\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working11\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working11\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working11\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working11\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working11\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmComingSoon.resources
+C:\working11\HouseApp\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working11\HouseApp\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working11\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.exe
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\Config\log4net.config
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\HouseApp.application
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\HouseApp.exe
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\log4net.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working12\HouseApp\HousApp\bin\Debug\Config\log4net.config
+C:\working12\HouseApp\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working12\HouseApp\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working12\HouseApp\HousApp\bin\Debug\HouseApp.exe.config
+C:\working12\HouseApp\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working12\HouseApp\HousApp\bin\Debug\HouseApp.application
+C:\working12\HouseApp\HousApp\bin\Debug\HouseApp.exe
+C:\working12\HouseApp\HousApp\bin\Debug\HouseApp.pdb
+C:\working12\HouseApp\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working12\HouseApp\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working12\HouseApp\HousApp\bin\Debug\log4net.dll
+C:\working12\HouseApp\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working12\HouseApp\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working12\HouseApp\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+C:\working12\HouseApp\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+C:\working12\HouseApp\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\working12\HouseApp\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+C:\working12\HouseApp\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+C:\working12\HouseApp\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+C:\working12\HouseApp\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\working12\HouseApp\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working12\HouseApp\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working12\HouseApp\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.application
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.exe
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.pdb
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working12\HouseApp\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\HouseApp.exe.config
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.exe
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.pdb
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\Config\log4net.config
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\Resources\newpic.jpg
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\HouseApp.exe.manifest
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\HouseApp.application
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\HouseApp.exe
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\HouseApp.pdb
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\ISqlCeScripting.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\log4net.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\SqlCeScripting.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\System.Data.SQLite.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.exe.manifest
+\\psf\Home\Downloads\New folder (16)\HouseApp-History\HousApp\obj\Debug\HouseApp.application
+C:\working13\HouseApp-History\HousApp\bin\Debug\HouseApp.exe.config
+C:\working13\HouseApp-History\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+C:\working13\HouseApp-History\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+C:\working13\HouseApp-History\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\working13\HouseApp-History\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.exe
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.pdb
+C:\working13\HouseApp-History\HousApp\bin\Debug\Config\log4net.config
+C:\working13\HouseApp-History\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working13\HouseApp-History\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working13\HouseApp-History\HousApp\bin\Debug\HouseApp.exe.manifest
+C:\working13\HouseApp-History\HousApp\bin\Debug\HouseApp.application
+C:\working13\HouseApp-History\HousApp\bin\Debug\HouseApp.exe
+C:\working13\HouseApp-History\HousApp\bin\Debug\HouseApp.pdb
+C:\working13\HouseApp-History\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\log4net.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\working13\HouseApp-History\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.exe.manifest
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.application
+C:\working13\HouseApp-History\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp\HousApp\obj\Debug\HouseApp.Forms.FrmStart.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\HouseApp.exe.config
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.exe
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.pdb
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\Config\log4net.config
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\Resources\newpic.jpg
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\HouseApp.exe.manifest
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\HouseApp.application
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\HouseApp.exe
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\HouseApp.pdb
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\ISqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\log4net.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\SqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\System.Data.SQLite.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Forms.FrmStart.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.exe.manifest
+E:\Users\V.S. Saini\Documents\HouseApp with Building\HousApp\obj\Debug\HouseApp.application
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\Config\log4net.config
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\Resources\newpic.jpg
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\ISqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\log4net.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\SqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmStart.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\Interop.MSVidCtlLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\Interop.PrintUIObjLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\AxInterop.PrintUIObjLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.csproj.ResolveComReference.cache
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\Config\log4net.config
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\log4net.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\System.Data.SQLite.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\Interop.MSVidCtlLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\Interop.PrintUIObjLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\AxInterop.PrintUIObjLib.dll
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmStart.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe.config
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.application
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe
+C:\working14-a\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.pdb
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.application
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.exe
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.pdb
+C:\working14-a\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe.config
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.exe
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.pdb
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.application
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.exe
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\bin\Debug\HouseAppBuilding.pdb
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (With Building)\HousApp\obj\Debug\HouseAppBuilding.application
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\HouseAppBuilding.exe.config
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseAppBuilding.exe
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseAppBuilding.pdb
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\Config\log4net.config
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\HouseAppBuilding.application
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\HouseAppBuilding.exe
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\HouseAppBuilding.pdb
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\log4net.dll
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.Backup.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.FrmStart.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseAppBuilding.application
+C:\working15\HouseApp v2 ( Building bugs fixed)\HousApp\obj\Debug\HouseApp.Forms.setting.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe.config
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.exe
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.pdb
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmBackup.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\Config\log4net.config
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\Resources\newpic.jpg
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.application
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.pdb
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\ISqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\log4net.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\bin\Debug\SqlCeScripting.dll
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.application
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe.config
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.exe
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.pdb
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\Config\log4net.config
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.application
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.exe
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\HouseAppBuilding.pdb
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\log4net.dll
+C:\working16\HouseApp v2 (Settings)\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmBackup.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmBuilding.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmSetting.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseAppBuilding.application
+C:\working16\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCo_frmBuilding.resources
+E:\Users\V.S. Saini\Documents\House App\HouseApp v2 (Settings)\HousApp\obj\Debug\HouseApp.UserControls.UserCoBuilding.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\HouseAppBuilding.exe.config
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseAppBuilding.exe
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseAppBuilding.pdb
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\Config\log4net.config
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\Resources\newpic.jpg
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\HouseAppBuilding.application
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\HouseAppBuilding.exe
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\HouseAppBuilding.pdb
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\ISqlCeScripting.dll
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\log4net.dll
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\bin\Debug\SqlCeScripting.dll
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.Forms.FrmBackup.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserCoBuilding.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+C:\working17\HouseApp v2 - Architecture Modified\HousApp\obj\Debug\HouseAppBuilding.application
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe.config
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.exe
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.pdb
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Config\log4net.config
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Resources\newpic.jpg
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.application
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.pdb
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\ISqlCeScripting.dll
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\log4net.dll
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\bin\Debug\SqlCeScripting.dll
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmBackup.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoBuilding.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+D:\My Projects\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.application
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe.config
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.exe
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.pdb
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Config\log4net.config
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\SQLCEDB\ihomenew1.sdf
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Resources\newpic.jpg
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe.manifest
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.application
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.exe
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\HouseAppBuilding.pdb
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\Ionic.Zip.Reduced.dll
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\ISqlCeScripting.dll
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\log4net.dll
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\bin\Debug\SqlCeScripting.dll
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmBackup.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmAbout.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Properties.Resources.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\SoftwareLocker.frmDialog.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmSentEmail.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\SoftwareLocker.Controls.SerialBox.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoHistory.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoAddNew.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoAlert.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoDayarim.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoLogs.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoMainApp.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoHome.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.Forms.FrmHome.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoPayment.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserCoBuilding.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserIncome.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.UserControls.UserInvoice.resources
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.exe.manifest
+D:\My Projects\03 - WinForm Completed\House App\HouseApp v2 - BETA\HousApp\obj\Debug\HouseAppBuilding.application

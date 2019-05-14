@@ -1,0 +1,7 @@
+﻿
+
+Current DB Folderאט(Master DB):
+C:\working9\HouseApp\HousApp\bin\Debug\SQLCEDB
+
+User Folder:
+C:\Users\natan\AppData\Local\HouseApp\DBL
